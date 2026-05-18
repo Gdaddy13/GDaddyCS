@@ -1,1 +1,74 @@
-readme
+Create a file named:
+
+```text
+README.md
+```
+
+Put it in the **root** of your GitHub repo.
+
+Basic structure:
+
+````md
+# GdaddyCS v1
+
+Local-first creative orchestration shell for structured AI-assisted execution.
+
+## Product Thesis
+
+Structured orchestration is superior to chaotic prompting.
+
+## Current Status
+
+Prototype / pre-production architecture.
+
+## Core Workflow
+
+1. State Editor
+2. Department Selector
+3. Command Input
+4. Context Pack
+5. Transmit
+6. Capture
+7. Evaluation
+8. Memory Commit
+9. Export
+
+## Project Structure
+
+```text
+/current-shell
+/claude-ui
+/docs
+/assets
+/validation
+````
+
+## Build Goal
+
+Refactor the current single-file HTML prototype into a clean React/Vite architecture while preserving the 9-stage orchestration flow.
+
+## Rules
+
+* No backend yet
+* No API integration yet
+* No authentication yet
+* No AI agents yet
+* Local-first only
+* Preserve operational doctrine
+
+## Author
+
+Designed by Garir Mansour
+Founder & CCO of 13 AI
+
+```
+
+On GitHub:
+
+1. Open your repo.
+2. Click **Add file**.
+3. Click **Create new file**.
+4. Name it `README.md`.
+5. Paste the content.
+6. Click **Commit changes**.
+```
